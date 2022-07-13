@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @divyareddy083
-- 👀 I’m interested in Data Science, Java Development, Web Development
-- 🌱 I’m currently learning Data Science Using Pythona and R programming, Full Stack Development using Java
+- 👀 I’m interested in Data Science,Java, and Web Development.
+- 🌱 I’m currently learning Data Science Using Python and R programming. 
 - 📫 How to reach me at djreddy023@gmail.com
 
 <!---
