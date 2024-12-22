@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Divya Reddy
-- 👀 I’m interested in Data Science,Java, and Web Development.
-- 🌱 I’m learning Data Science Using Python and R programming.
-- Pursuing MCA @ SJB INSTITUTE OF TECHNOLOGY
-- 📫 Reach me at djreddy023@gmail.com
+👋 Hi, I’m Divya Jayarama Reddy
+👀 I’m passionate about Data Science, Java, and Web Development.
+📚 I've completed a Post Graduate Program in Data Science and have a B.Sc. in PMCs (Physics, Mathematics, Computer Science).
+🎓 Currently Pursuing my MCA at SJB Institute of Technology.
+🚀 Exploring the world of Machine Learning, NLP, and Full-Stack Development.
+📫 Feel free to reach out to me at djreddy023@gmail.com.
+
 
 <!---
 divyareddy083/divyareddy083 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
