@@ -54,7 +54,7 @@ I’m a highly motivated tech enthusiast passionate about leveraging data and te
 
 ### 📬 Let’s Connect
 
-I'm open to internships, collaborations, and tech discussions.  
+I’m actively seeking job opportunities, open to collaborations, and always excited to engage in tech discussions. 
 Feel free to reach out — I’d love to connect!
 
 📧 **djreddy023@gmail.com**
