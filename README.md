@@ -34,7 +34,7 @@ I’m a highly motivated tech enthusiast passionate about leveraging data and te
 `CNNs` · `Autoencoders` · `GANs`
 
 #### 🗃️ Databases  
-`SQL` · `MySQL Workbench` · `MongoDB`
+`SQL` · `NoSQL` · `MySQL Workbench` · `MongoDB`
 
 #### 🌐 Web Development  
 `React.js` · `HTML` · `CSS` · `JavaScript`  
